@@ -1,6 +1,7 @@
 Building a Production‑Grade S&P 500 Stock Ranking Engine in Python: YTD Performance, Risk Analytics, and Portfolio Insights for Quantitative Finance.
 
 1. Executive overview.
+
 Equity markets in 2025 have been characterised by extreme dispersion inside major benchmarks. Some S&P 500 names have more than doubled, while others have lost over half their value. For quantitative investors, portfolio managers, and risk teams, this raises a practical question: 
 
 “Can we build a transparent, production‑style engine that tells us—every day—who is driving performance and risk in our universe?” 
