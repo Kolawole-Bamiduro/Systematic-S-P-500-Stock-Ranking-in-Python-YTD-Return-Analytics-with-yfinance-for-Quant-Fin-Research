@@ -89,8 +89,8 @@ The simplest and most widely used views are leaderboards of winners and losers.
 
 The framework creates two bar charts:
 
-Figure 1 – Top‑20 tickers by YTD total return.
-Figure 2 – Bottom‑20 tickers by YTD total return.
+1. Figure 1 – Top‑20 tickers by YTD total return.
+2. Figure 2 – Bottom‑20 tickers by YTD total return.
 
 These charts serve several purposes:
 
